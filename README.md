@@ -49,9 +49,9 @@ setwd("path/to/your/project/folder")
 
 6. Execute the Script: Run the Group_9_Final_Project_Sentiment_Analysis_AMZN.R script in your R environment.
 # Group Members
-* Mohammad Khurram (**Co Team Leader**)
+* Mohammad Khurram 
   
-* Saadan Ishaque (**Co Team Leader**)
+* Saadan Ishaque 
 
 * Muhammad Hammad 
 
